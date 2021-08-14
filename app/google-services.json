@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "547988649923",
+    "firebase_url": "https://realtime-testing-b4b5d-default-rtdb.firebaseio.com",
+    "project_id": "realtime-testing-b4b5d",
+    "storage_bucket": "realtime-testing-b4b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547988649923:android:fc954b3c8461fd80a66f76",
+        "android_client_info": {
+          "package_name": "com.corsuevisionplus.tamazuj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547988649923-ik5cner06vh6q6mn611o7im9osmsc8kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXnaY1E6GoV2mb0zP3rOLkuoUbZDX9uC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547988649923-ik5cner06vh6q6mn611o7im9osmsc8kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

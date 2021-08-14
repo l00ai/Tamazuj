@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/online"
+        android:icon="@drawable/ic_consulting"
+
+        android:title="@string/online_consultations"/>
+    <item android:id="@+id/inClinic"
+        android:icon="@drawable/ic_appointment"
+        android:title="@string/in_clinic_consultation"/>
+</menu>

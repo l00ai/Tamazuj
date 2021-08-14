@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:id="@+id/linerItem"
+    android:layout_margin="14dp"
+    >
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:elevation="180dp">
+    <TextView
+        android:id="@+id/typeOpen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="18dp"
+        android:textSize="18sp"
+        android:layout_gravity="start"
+        android:layout_marginTop="18dp"
+        android:text=""
+        />
+    <TextView
+        android:id="@+id/timeStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingEnd="66dp"
+        android:textSize="18sp"
+        android:layout_gravity="end"
+        android:layout_marginTop="18dp"
+        android:text=""
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingEnd="55dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="end"
+        android:layout_marginTop="18dp"
+        android:text="-"
+        />
+    <TextView
+        android:id="@+id/timeEnd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingEnd="10dp"
+        android:textSize="18sp"
+        android:layout_gravity="end"
+        android:layout_marginTop="18dp"
+        android:text=""
+        />
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
